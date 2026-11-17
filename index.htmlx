@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Integrador | Suíça & Chocolate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a class="brand" href="#inicio">
+            <img src="img/image copy 2.png" alt="Logo Senac">
+        </a>
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#suica">Suíça</a>
+            <a href="#empreendedorismo">Empreendedorismo</a>
+            <a href="#cultural">Feira Cultural</a>
+            <a href="#conhecimento">Conhecimento</a>
+            <a href="#sobre">Sobre</a>
+        </nav>
+        <img class="brand-choco" src="img/image.png" alt="Choco Muu">
+    </header>
+    <main>
+        <section class="hero" id="inicio">
+            <div class="hero-shade"></div>
+            <div class="hero-content">
+                <span class="tag">PROJETO INTEGRADOR • 2026</span>
+                <h1>Uma viagem pelo<br><em>Projeto Integrador</em> e pelo conhecimento</h1>
+                <p>
+                    Cultura, histórias, criatividade e experiências.
+                </p>
+                <a class="btn" href="#suica">Explorar o projeto ↓</a>
+            </div>
+        </section>
+        <section class="intro section" id="suica">
+            <div class="section-copy">
+                <span class="tag dark">CULTURA • HISTÓRIA • TRADIÇÃO</span>
+                <h2>Bem-vindos à<br><span>Suíça!</span></h2>
+                <p>
+                    A Suíça é conhecida por suas paisagens de montanhas,
+                    tradições, chocolates e histórias fascinantes.
+                    Neste projeto, exploramos aspectos da cultura suíça
+                    e compartilhamos o que aprendemos em diferentes
+                    feiras escolares.
+                </p>
+                <p>
+                    Prepare-se para conhecer lendas, descobrir ideias
+                    empreendedoras e acompanhar nossas apresentações.
+                </p>
+            </div>
+            
+            <div class="photo-placeholder tall">
+                <img src="img/image copy 5.png" alt="Paisagem da Suíça">
+            </div>
+        </section>
+        <section class="section legends">
+            <div class="section-copy centered">
+                <span class="tag">CONTOS E IMAGINAÇÃO</span>
+                <h2>Lendas e mitos <span>de Guaratuba</span></h2>
+                <p>
+                    As lendas fazem parte da memória e da identidade
+                    de um povo. Conheça narrativas tradicionais de Guaratuba,
+                    personagens lendários e histórias transmitidas
+                    de geração em geração.
+                </p>
+            </div>
+            <div class="photo-grid three">
+                <a href="Guaratuba">
+                <div class="photo-placeholder">
+                    <img src="img/image copy 6.png" alt="Lenda suíça">
+                </div>
+                </a>
+                <div class="photo-placeholder">
+                    <img src="img/image copy 7.png" alt="Lenda suíça">
+                </div>
+                <div class="photo-placeholder">
+                    <img src="img/image copy 8.png" alt="Lenda suíça">
+                </div>
+            </div>
+            </p>
+        </section>
+        >
+        <section class="section event" id="empreendedorismo">
+            <div class="event-photo photo-placeholder">
+                <img src="img/image copy.png" alt="Feira do Empreendedorismo">
+            </div>
+            <div class="section-copy">
+                <span class="tag">IDEIAS QUE VIRAM EXPERIÊNCIAS</span>
+                <h2>Feira do<br><span>Empreendedorismo</span></h2>
+                <p>
+                    A Feira do Empreendedorismo incentiva a criatividade,
+                    o planejamento, o trabalho em equipe e a iniciativa.
+                    É uma oportunidade de transformar ideias em negócios
+                    e aprender na prática.
+                </p>
+                <p>
+                    Na nossa feira, apresentamos a <strong>Choco Muu</strong>,
+                    uma experiência de chocolate quente, com atenção aos
+                    produtos, à organização, às vendas e ao atendimento
+                    dos visitantes.
+                </p>
+                <div class="mini-gallery">
+                    <div class="photo-placeholder">
+                        <img src="img/image copy 4.png" alt="Detalhes da feira">
+                    </div>
+                    <div class="photo-placeholder">
+                        <img src="img/image copy 3.png" alt="Produtos da feira">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section event reverse" id="cultural">
+            <div class="event-photo photo-placeholder">
+                <img src="img/Image (1).jpg" alt="Feira Cultural">
+            </div>
+            <div class="section-copy">
+                <span class="tag">ARTE • CULTURA • EXPRESSÃO</span>
+                <h2>Feira <span>Cultural</span></h2>
+                <p>
+                    A Feira Cultural é um espaço para apresentar tradições,
+                    pesquisas, histórias e manifestações culturais.
+                    Nosso trabalho trouxe elementos das lendas e dos mitos,
+                    com decoração, caracterização e explicações
+                    para os visitantes.
+                </p>
+                <p>
+                    Foi uma oportunidade de compartilhar conhecimento,
+                    valorizar diferentes culturas e desenvolver
+                    a comunicação e a criatividade.
+                </p>
+                <div class="photo-placeholder extra-photo">
+                    <img src="img/img 1/image.png" alt="Detalhes da Feira Cultural">
+                </div>
+            </div>
+        </section>
+        <section class="section event" id="conhecimento">
+            <div class="event-photo photo-placeholder">
+                <img src="img/Image (2).jpg" alt="Feira do Conhecimento">
+
+            </div>
+            <div class="section-copy">
+                <span class="tag">PESQUISA • DESCOBERTAS • APRENDIZADO</span>
+                <h2>Feira do <span>Conhecimento</span></h2>
+                <p>
+                    Na Feira do Conhecimento, apresentamos informações,
+                    pesquisas e descobertas. O objetivo é aprender,
+                    compartilhar ideias e despertar a curiosidade
+                    por diferentes assuntos.
+                </p>
+                <p>
+                    Nosso espaço sobre a Suíça reuniu conteúdos,
+                    imagens e elementos que ajudaram a explicar
+                    o tema aos visitantes.
+                </p>
+                <div class="photo-placeholder extra-photo">
+                    <img src="img/Image (2).jpg" alt="Detalhes da Feira do Conhecimento">
+                </div>
+            </div>
+        </section>
+        <section class="about" id="sobre">
+            <img src="img/image.png" alt="Logo Choco Muu" class="about-logo">
+            <div>
+                <span class="tag">NOSSA EXPERIÊNCIA</span>
+                <h2>Aprender, criar<br>e compartilhar.</h2>
+                <p>
+                    Este Projeto Integrador reúne cultura, pesquisa,
+                    empreendedorismo e colaboração. Cada feira foi
+                    uma oportunidade de colocar em prática o que
+                    aprendemos, trabalhar em equipe e construir
+                    experiências especiais.
+                </p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <img src="img/image copy 2.png" alt="Senac">
+        <p>Projeto Integrador • 2026 - Melissa Cardoso Teixeira, Natalia Messias Farago Schultz, Emanuelle Bonfim Meira, Rafaella da Costa Macalossi</p>
+        <img src="img/image.png" alt="Choco Muu">
+    </footer>
+</body>
+</html>
